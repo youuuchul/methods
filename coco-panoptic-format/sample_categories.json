@@ -1,0 +1,82 @@
+{
+  "num_categories": 11,
+  "categories": [
+    {
+      "id": 1393250,
+      "name": "Goal Bar",
+      "supercategory": "Goal Bar",
+      "isthing": 1,
+      "color": [98, 66, 21]
+    },
+    {
+      "id": 1392807,
+      "name": "Referee",
+      "supercategory": "Referee",
+      "isthing": 1,
+      "color": [167, 64, 21]
+    },
+    {
+      "id": 1392806,
+      "name": "Advertisements",
+      "supercategory": "Advertisements",
+      "isthing": 1,
+      "color": [166, 64, 21]
+    },
+    {
+      "id": 1392805,
+      "name": "Ground",
+      "supercategory": "Ground",
+      "isthing": 1,
+      "color": [165, 64, 21]
+    },
+    {
+      "id": 1392804,
+      "name": "Ball",
+      "supercategory": "Ball",
+      "isthing": 1,
+      "color": [164, 64, 21]
+    },
+    {
+      "id": 1392803,
+      "name": "Coaches & Officials",
+      "supercategory": "Coaches & Officials",
+      "isthing": 1,
+      "color": [163, 64, 21]
+    },
+    {
+      "id": 1392802,
+      "name": "Audience",
+      "supercategory": "Audience",
+      "isthing": 1,
+      "color": [162, 64, 21]
+    },
+    {
+      "id": 1392801,
+      "name": "Goalkeeper B",
+      "supercategory": "Goalkeeper B",
+      "isthing": 1,
+      "color": [161, 64, 21]
+    },
+    {
+      "id": 1392800,
+      "name": "Goalkeeper A",
+      "supercategory": "Goalkeeper A",
+      "isthing": 1,
+      "color": [160, 64, 21]
+    },
+    {
+      "id": 1392799,
+      "name": "Team B",
+      "supercategory": "Team B",
+      "isthing": 1,
+      "color": [159, 64, 21]
+    },
+    {
+      "id": 1392794,
+      "name": "Team A",
+      "supercategory": "Team A",
+      "isthing": 1,
+      "color": [154, 64, 21]
+    }
+  ]
+}
